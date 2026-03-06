@@ -1,6 +1,6 @@
 # vue-recipe-book
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue3 - practice project (Pinia)
 
 ## Recommended IDE Setup
 
